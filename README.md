@@ -1,6 +1,7 @@
 # course_discuss_app
 
-A new Flutter project.
+Flutter project : branch main
+PHP project : branch master
 
 ## Getting Started
 
